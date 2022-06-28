@@ -4,5 +4,5 @@ metadata:
   namespace: 4kube
   name: configmap
 data:
-  PRESTASHOP_FIRST_NAME: Paul
-  PRESTASHOP_LAST_NAME: Valadon
+  PRESTASHOP_FIRST_NAME: CASSANDRA
+  PRESTASHOP_LAST_NAME: DIEYE
